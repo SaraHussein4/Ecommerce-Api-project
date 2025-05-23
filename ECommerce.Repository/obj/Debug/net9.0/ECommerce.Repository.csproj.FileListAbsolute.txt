@@ -1,0 +1,30 @@
+D:\Iti\ITI API\Project\ECommerce.Repository\bin\Debug\net9.0\ECommerce.Repository.deps.json
+D:\Iti\ITI API\Project\ECommerce.Repository\bin\Debug\net9.0\ECommerce.Repository.dll
+D:\Iti\ITI API\Project\ECommerce.Repository\bin\Debug\net9.0\ECommerce.Repository.pdb
+D:\Iti\ITI API\Project\ECommerce.Repository\bin\Debug\net9.0\ECommerce.Core.dll
+D:\Iti\ITI API\Project\ECommerce.Repository\bin\Debug\net9.0\ECommerce.Core.pdb
+D:\Iti\ITI API\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.csproj.AssemblyReference.cache
+D:\Iti\ITI API\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti\ITI API\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.AssemblyInfoInputs.cache
+D:\Iti\ITI API\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.AssemblyInfo.cs
+D:\Iti\ITI API\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.csproj.CoreCompileInputs.cache
+D:\Iti\ITI API\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerc.A7A3BF9F.Up2Date
+D:\Iti\ITI API\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.dll
+D:\Iti\ITI API\Project\ECommerce.Repository\obj\Debug\net9.0\refint\ECommerce.Repository.dll
+D:\Iti\ITI API\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.pdb
+D:\Iti\ITI API\Project\ECommerce.Repository\obj\Debug\net9.0\ref\ECommerce.Repository.dll
+D:\Iti\test\Project\ECommerce.Repository\bin\Debug\net9.0\ECommerce.Repository.deps.json
+D:\Iti\test\Project\ECommerce.Repository\bin\Debug\net9.0\ECommerce.Repository.dll
+D:\Iti\test\Project\ECommerce.Repository\bin\Debug\net9.0\ECommerce.Repository.pdb
+D:\Iti\test\Project\ECommerce.Repository\bin\Debug\net9.0\ECommerce.Core.dll
+D:\Iti\test\Project\ECommerce.Repository\bin\Debug\net9.0\ECommerce.Core.pdb
+D:\Iti\test\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.csproj.AssemblyReference.cache
+D:\Iti\test\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti\test\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.AssemblyInfoInputs.cache
+D:\Iti\test\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.AssemblyInfo.cs
+D:\Iti\test\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.csproj.CoreCompileInputs.cache
+D:\Iti\test\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerc.A7A3BF9F.Up2Date
+D:\Iti\test\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.dll
+D:\Iti\test\Project\ECommerce.Repository\obj\Debug\net9.0\refint\ECommerce.Repository.dll
+D:\Iti\test\Project\ECommerce.Repository\obj\Debug\net9.0\ECommerce.Repository.pdb
+D:\Iti\test\Project\ECommerce.Repository\obj\Debug\net9.0\ref\ECommerce.Repository.dll

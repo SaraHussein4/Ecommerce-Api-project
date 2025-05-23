@@ -1,0 +1,30 @@
+D:\Iti\ITI API\Project\ECommerce.Service\bin\Debug\net9.0\ECommerce.Service.deps.json
+D:\Iti\ITI API\Project\ECommerce.Service\bin\Debug\net9.0\ECommerce.Service.dll
+D:\Iti\ITI API\Project\ECommerce.Service\bin\Debug\net9.0\ECommerce.Service.pdb
+D:\Iti\ITI API\Project\ECommerce.Service\bin\Debug\net9.0\ECommerce.Core.dll
+D:\Iti\ITI API\Project\ECommerce.Service\bin\Debug\net9.0\ECommerce.Core.pdb
+D:\Iti\ITI API\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.csproj.AssemblyReference.cache
+D:\Iti\ITI API\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti\ITI API\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.AssemblyInfoInputs.cache
+D:\Iti\ITI API\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.AssemblyInfo.cs
+D:\Iti\ITI API\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.csproj.CoreCompileInputs.cache
+D:\Iti\ITI API\Project\ECommerce.Service\obj\Debug\net9.0\ECommerc.C6EF674E.Up2Date
+D:\Iti\ITI API\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.dll
+D:\Iti\ITI API\Project\ECommerce.Service\obj\Debug\net9.0\refint\ECommerce.Service.dll
+D:\Iti\ITI API\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.pdb
+D:\Iti\ITI API\Project\ECommerce.Service\obj\Debug\net9.0\ref\ECommerce.Service.dll
+D:\Iti\test\Project\ECommerce.Service\bin\Debug\net9.0\ECommerce.Service.deps.json
+D:\Iti\test\Project\ECommerce.Service\bin\Debug\net9.0\ECommerce.Service.dll
+D:\Iti\test\Project\ECommerce.Service\bin\Debug\net9.0\ECommerce.Service.pdb
+D:\Iti\test\Project\ECommerce.Service\bin\Debug\net9.0\ECommerce.Core.dll
+D:\Iti\test\Project\ECommerce.Service\bin\Debug\net9.0\ECommerce.Core.pdb
+D:\Iti\test\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.csproj.AssemblyReference.cache
+D:\Iti\test\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti\test\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.AssemblyInfoInputs.cache
+D:\Iti\test\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.AssemblyInfo.cs
+D:\Iti\test\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.csproj.CoreCompileInputs.cache
+D:\Iti\test\Project\ECommerce.Service\obj\Debug\net9.0\ECommerc.C6EF674E.Up2Date
+D:\Iti\test\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.dll
+D:\Iti\test\Project\ECommerce.Service\obj\Debug\net9.0\refint\ECommerce.Service.dll
+D:\Iti\test\Project\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.pdb
+D:\Iti\test\Project\ECommerce.Service\obj\Debug\net9.0\ref\ECommerce.Service.dll

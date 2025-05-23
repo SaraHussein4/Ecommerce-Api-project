@@ -1,0 +1,24 @@
+D:\Iti\ITI API\Project\ECommerce.Core\bin\Debug\net9.0\ECommerce.Core.deps.json
+D:\Iti\ITI API\Project\ECommerce.Core\bin\Debug\net9.0\ECommerce.Core.dll
+D:\Iti\ITI API\Project\ECommerce.Core\bin\Debug\net9.0\ECommerce.Core.pdb
+D:\Iti\ITI API\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti\ITI API\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.AssemblyInfoInputs.cache
+D:\Iti\ITI API\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.AssemblyInfo.cs
+D:\Iti\ITI API\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.csproj.CoreCompileInputs.cache
+D:\Iti\ITI API\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.dll
+D:\Iti\ITI API\Project\ECommerce.Core\obj\Debug\net9.0\refint\ECommerce.Core.dll
+D:\Iti\ITI API\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.pdb
+D:\Iti\ITI API\Project\ECommerce.Core\obj\Debug\net9.0\ref\ECommerce.Core.dll
+D:\Iti\ITI API\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.csproj.AssemblyReference.cache
+D:\Iti\test\Project\ECommerce.Core\bin\Debug\net9.0\ECommerce.Core.deps.json
+D:\Iti\test\Project\ECommerce.Core\bin\Debug\net9.0\ECommerce.Core.dll
+D:\Iti\test\Project\ECommerce.Core\bin\Debug\net9.0\ECommerce.Core.pdb
+D:\Iti\test\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.csproj.AssemblyReference.cache
+D:\Iti\test\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti\test\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.AssemblyInfoInputs.cache
+D:\Iti\test\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.AssemblyInfo.cs
+D:\Iti\test\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.csproj.CoreCompileInputs.cache
+D:\Iti\test\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.dll
+D:\Iti\test\Project\ECommerce.Core\obj\Debug\net9.0\refint\ECommerce.Core.dll
+D:\Iti\test\Project\ECommerce.Core\obj\Debug\net9.0\ECommerce.Core.pdb
+D:\Iti\test\Project\ECommerce.Core\obj\Debug\net9.0\ref\ECommerce.Core.dll

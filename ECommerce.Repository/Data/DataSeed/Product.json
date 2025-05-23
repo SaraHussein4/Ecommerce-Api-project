@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with 1600 DPI",
+    "price": 25.99,
+    "img": "mouse.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 1
+  },
+  {
+    "name": "Gaming Keyboard",
+    "description": "Mechanical keyboard with RGB lighting",
+    "price": 45.50,
+    "img": "keyboard.jpg",
+    "ProductBrandId": 2,
+    "ProductTypeId": 1
+  },
+  {
+    "name": "HD Monitor",
+    "description": "24-inch full HD monitor",
+    "price": 129.99,
+    "img": "monitor.jpg",
+    "ProductBrandId": 3,
+    "ProductTypeId": 2
+  }
+]
